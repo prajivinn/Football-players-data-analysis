@@ -1,5 +1,7 @@
 # football-players-data-analysis
 
+Project_link: https://prajivinn.github.io/2023/05/13/Football-Players-Data-Analysis.html
+
 ## Description
 This dataset contains stats for 10 football players from Europe's top leagues. You will use this data to solve the following problem statement.
 
